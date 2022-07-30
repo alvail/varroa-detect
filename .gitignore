@@ -1,0 +1,8 @@
+data
+venv
+*checkpoints
+results/report/*
+!results/report/report.tex
+!results/report/report.pdf
+!results/report/report.sty
+!results/report/references.bib
